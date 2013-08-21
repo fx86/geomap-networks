@@ -5,3 +5,5 @@ geomap-networks
 3. Now browser to http://127.0.0.1:8000 to see the updated map.
 4. Press F5 to refresh the map.
 
+P.S: GeoLiteCity.dat is obtained from geolite.maxmind.com
+
