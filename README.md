@@ -4,6 +4,9 @@ geomap-networks
 Dependencies:
 Python libraries that are needed to run this script: pygeoip, scapy, pandas
 
+OS dependencies: currently none.
+
+
 How to run:
 
 1. Run analyse.py from a command line.
