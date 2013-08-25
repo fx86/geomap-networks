@@ -1,4 +1,3 @@
-import dpkt
 from scapy.all import *
 import pygeoip
 import pandas as pd
